@@ -42,4 +42,6 @@ mvnw spring-boot:build-image -Dspring-boot.build-image.imageName=com.pgichure.sa
 
 * [Maven docs](https://maven.apache.org/guides/index.html)  
 * [Spring Boot reference](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)  
-* [Spring Data JPA reference](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)  
+* [Spring Data JPA reference](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
+* https://www.freecodecamp.org/news/spring-boot-tutorial-build-fast-modern-java-app/  
+* https://github.com/yigiterinc/amenity-reservation-system  
